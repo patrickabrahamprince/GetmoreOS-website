@@ -18,7 +18,8 @@ function getPrimaryHtmlPages() {
     'local-seo-bangalore/index.html',
     'restaurant-website-zero-commission/index.html',
     'salon-website-bangalore/index.html',
-    'whatsapp-booking-automation/index.html'
+    'whatsapp-booking-automation/index.html',
+    'solutions/index.html'
   ];
 }
 
@@ -60,9 +61,14 @@ test('Sitemap, Robots and LLM Manifest Integrity', async (t) => {
   assert.ok(sitemapContent.includes('<urlset'), 'sitemap.xml contains urlset');
   assert.ok(sitemapContent.includes('https://getmoreos.in/'), 'sitemap.xml includes homepage');
 
-  // 3. llms.txt
+  // 3. llms.txt & llms-full.txt
   const llmsPath = path.join(ROOT_DIR, 'llms.txt');
   assert.ok(fs.existsSync(llmsPath), 'llms.txt exists');
   const llmsContent = fs.readFileSync(llmsPath, 'utf8');
   assert.ok(llmsContent.includes('Getmore OS'), 'llms.txt includes Getmore OS context');
+
+  const llmsFullPath = path.join(ROOT_DIR, 'llms-full.txt');
+  assert.ok(fs.existsSync(llmsFullPath), 'llms-full.txt exists');
+  const llmsFullContent = fs.readFileSync(llmsFullPath, 'utf8');
+  assert.ok(llmsFullContent.includes('Inbound & Outbound AI Voice Agents'), 'llms-full.txt includes voice agents');
 });

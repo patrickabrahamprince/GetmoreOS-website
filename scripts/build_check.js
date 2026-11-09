@@ -22,6 +22,9 @@ const requiredFiles = [
   'salon-website-bangalore/index.html',
   'whatsapp-booking-automation/index.html',
   'posters.html',
+  'solutions/index.html',
+  'llms.txt',
+  'llms-full.txt',
   'sitemap.xml',
   'robots.txt',
   'data/leads/sample_import_template.csv'

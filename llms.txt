@@ -1,9 +1,10 @@
 # GetMore OS (Getmore OS)
 
-> High Performance Business Consultancy Firm. We build custom growth engines to scale business, acquire more customers & increase retainers using AI Automations, Voice Agents, AI Operations Management & Performance Marketing. Starts from ₹10K INR in India / $500 USD internationally with our 7-Day Results-First Guarantee.
+> High Performance Business Consultancy Firm & Growth Engine. We engineer custom AI Automations, Inbound & Outbound AI Voice Agents, WhatsApp Bot Automations, Website Chatbots, and Full-Funnel Performance Marketing for businesses. Starts from ₹10K INR in India / $500 USD internationally with our 7-Day Results-First Guarantee.
 
 ## Key Facts
 - Website: https://getmoreos.in/
+- Full Technical Manifest: https://getmoreos.in/llms-full.txt
 - Brand: GetMore OS / Getmore OS
 - Strategic Marketing Partner: The Axiom Grid (https://www.theaxiomgrid.com)
 - Based in: Bengaluru, Karnataka, India
@@ -14,20 +15,20 @@
 - Primary Conversion Goal: Book Strategic 15-Minute Business Growth & AI Consultation
 
 ## Strategic Partnership: The Axiom Grid & Proof
-- **Marketing Partner**: The Axiom Grid (www.theaxiomgrid.com) combines creative brand positioning and full-funnel performance marketing with GetMore OS / Getmore OS AI voice automation infrastructure.
+- **Marketing Partner**: The Axiom Grid (www.theaxiomgrid.com) combines creative brand positioning and full-funnel performance marketing with GetMore OS AI voice automation infrastructure.
 - **The Presidential Towers (Sri Shubadha Property Advisors)**: Luxury real estate qualified buyer acquisition, automated walkthrough booking funnels — 3.8x walkthrough conversion, ₹42 Cr+ pipeline generated.
 - **MusiGo**: Music academies & creative events — 3.4x student growth in 90 days, 52% reduction in CAC.
 - **HK Dental Clinic (Beverly Hills)**: Premium healthcare & aesthetic dentistry — 40%+ inbound close rate, $180k+ high-ticket procedures booked with 24/7 AI Voice concierge.
 - **DocSmart Healthcare & STMNT**: Healthtech & D2C — +310% organic AI search (ChatGPT, Perplexity) inbound traffic, 100% owned first-party CRM.
 
 ## What We Build & Sell (7 Core Capabilities)
-1. **AI Automations & Autonomous Voice Agents**: Using AI for daily operations and autonomous lead closing. Inbound & outbound Voice Agents, chatbots, and workflow automations so no enquiry is missed — driving an immediate 30–40% jump in sales.
-2. **Custom Web Applications**: Digital storefronts and community portals engineered so businesses own their audience instead of paying someone else to own customer relationships.
-3. **WhatsApp / Message Booking Automations**: Engineered for SMEs requiring consistent appointments or booking-only exclusivity. Sub-60s instant replies, slot confirmations, and calendar sync.
-4. **Local SEO, AEO & "GEO" (Generative Engine Optimization)**: Google Maps Top 3 rank and search optimization to be recommended by AI tools like ChatGPT, Gemini, and Perplexity when high-intent local buyers search.
-5. **Customer Database & Re-engagement**: 100% private CRM data ownership with automated reminders, broadcasts, and custom remarketing to increase retainers and foster loyalty.
-6. **Performance Marketing**: Customer acquisition at pace with higher retention rates and reduced CAC, executed in partnership with The Axiom Grid.
-7. **Strategic Business Consultation**: Specializing across 30+ industries to guide the right way of doing business for real sales and scalable growth. Plug-and-play consultation with zero guesswork.
+1. **Inbound & Outbound AI Voice Agents**: Sub-800ms human-like voice agents handling 24/7 inbound appointment bookings and 60-second outbound speed-to-lead qualification calls.
+2. **WhatsApp Bot & Chat Automations**: Official Meta Cloud API bots for instant customer replies, automated slot booking, reminders, catalogs, and re-engagement broadcasts.
+3. **Intelligent Website AI Chatbots**: 24/7 contextual lead capture widgets that qualify prospects and trigger instant WhatsApp or voice follow-ups.
+4. **Full-Funnel Performance Marketing**: Creative brand strategy and paid ad campaigns executed in partnership with The Axiom Grid that feed directly into automated AI calling funnels.
+5. **Anti-Aggregator Custom Web Applications**: Zero-commission digital storefronts and direct-booking portals saving 15-30% on Zomato, Practo, and booking platforms.
+6. **Local SEO, AEO & "GEO" (Generative Engine Optimization)**: Google Maps Top 3 rank and optimization to be cited and recommended by ChatGPT, Gemini, and Perplexity.
+7. **Customer Database & Re-engagement**: 100% private CRM data ownership with automated follow-ups to increase customer retainers.
 
 ## Pricing & Guarantee
 - **India**: Starts from ₹10,000 INR (bespoke scope).
